@@ -1,5 +1,5 @@
 {
-  "name": "my-react-demo",
+  "name": "learn-react-demo",
   "version": "1.0.0",
   "description": "A sample demo with React+webpack",
   "keywords": [
@@ -7,6 +7,10 @@
     "reactjs",
     "webpack"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rococolate/learnReact.git"
+  },
   "devDependencies": {
     "babel-core": "^6.3.26",
     "babel-loader": "^6.2.0",
@@ -21,6 +25,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "guanxi Wu <guanxi.wu@qq.com> (http://github.com/Rococolate)",
+  "license": "MIT"
 }
